@@ -18,3 +18,8 @@ ol li {
 span.summary {
   font-size: .75rem;
 }
+
+.picture {
+  width: 250px;
+  height: 250px;
+}
