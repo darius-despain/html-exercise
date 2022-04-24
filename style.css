@@ -14,3 +14,7 @@ ul li li {
 ol li {
   margin-bottom: .5rem;
 }
+
+span.summary {
+  font-style: italic;
+}
