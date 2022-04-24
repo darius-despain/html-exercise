@@ -1,7 +1,12 @@
-li {
+ul li {
   list-style-type: circle;
 }
 
-li li {
+ul li li {
   list-style-type: square;
+}
+
+ol li {
+  font: 1rem 'Fira Sans', sans-serif;
+  margin-bottom: .5rem;
 }
